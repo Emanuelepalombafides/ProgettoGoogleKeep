@@ -10,7 +10,7 @@
         <load-on-startup>1</load-on-startup>
     </servlet>
     <servlet-mapping>
-        <servlet-name>Jersey Web Application</servlet-name>
+        <servlet-name>GoogleKeeps</servlet-name>
         <url-pattern>/GoogleKeeps/*</url-pattern>
     </servlet-mapping>
 </web-app>
