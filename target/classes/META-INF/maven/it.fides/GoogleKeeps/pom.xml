@@ -55,7 +55,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>GoogleKeep</finalName>
+		<finalName>GoogleKeeps</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
